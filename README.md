@@ -1,7 +1,7 @@
 ## TGrid Worker Example
 `tgrid.example.worker` is an example project of `TGrid`.
 
-It describes how to development `worker` protocol with RPC (Remote Procedure Call).
+It describes how to development `Worker` protocol with RPC (Remote Procedure Call).
 
   - [TGrid > Guide Documents > Remote Procedure Call](https://tgrid.com/docs/remote-procedure-call)
   - [TGrid > Guide Documents > Features > Worker](https://tgrid.com/docs/features/worker)
