@@ -3,7 +3,7 @@
 
 It describes how to development `worker` protocol with RPC (Remote Procedure Call).
 
-  - [TGrid > Guide Documents > Remote Procedure Call](https://tgrid.com/docs/features/remote-procedure-call)
+  - [TGrid > Guide Documents > Remote Procedure Call](https://tgrid.com/docs/remote-procedure-call)
   - [TGrid > Guide Documents > Features > Worker](https://tgrid.com/docs/features/worker)
 
 ```bash
